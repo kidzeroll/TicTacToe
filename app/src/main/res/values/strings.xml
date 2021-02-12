@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="copyright">© 2021 Muhammad Haykal</string>
+    <string name="splashDescription">Gambar Splash</string>
+    <string name="mainDescription">Gambar untuk main menu</string>
+    <string name="btnExit">Gambar untuk tombol keluar</string>
+    <string name="play">Play</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+</resources>
